@@ -1,4 +1,4 @@
-country_code,country_name,continental_region,no_internet_plans ,avg_price_1GB,cheapest _1GB,most_expensive_1GB,avg_speed
+country_code,country_name,continental_region,no_internet_plans,avg_price_1GB,cheapest _1GB,most_expensive_1GB,avg_speed
 AF,Afghanistan,Asia,35,$1.02,$0.38,$2.12,5.5
 AL,Albania,Europe,32,$2.80,$0.72,$96.39,40.48
 DZ,Algeria,Africa,20,$0.51,$0.16,$2.24,12.44
