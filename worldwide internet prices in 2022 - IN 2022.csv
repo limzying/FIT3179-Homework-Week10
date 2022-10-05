@@ -1,0 +1,138 @@
+country_code,country_name,continental_region,no_internet_plans ,avg_price_1GB,cheapest _1GB,most_expensive_1GB,avg_speed
+AF,Afghanistan,Asia,35,$1.02,$0.38,$2.12,5.5
+AL,Albania,Europe,32,$2.80,$0.72,$96.39,40.48
+DZ,Algeria,Africa,20,$0.51,$0.16,$2.24,12.44
+AO,Angola,Africa,20,$1.61,$1.03,$3.21,22.59
+AR,Argentina,South America,28,$2.38,$0.44,$11.47,20.64
+AM,Armenia,Asia,21,$0.76,$0.22,$13.02,22.01
+AU,Australia,Oceania,46,$0.70,$0.10,$7.62,76.52
+AT,Austria,Europe,60,$1.17,$0.24,$23.43,56.6
+AZ,Azerbaijan,Asia,42,$1.82,$0.24,$9.80,30.4
+BS,Bahamas,Caribbean,17,$5.98,$3.99,$10.74,26.77
+BH,Bahrain,Asia,24,$2.12,$1.27,$8.49,53.08
+BD,Bangladesh,Asia,60,$0.34,$0.11,$2.22,10.43
+BY,Belarus,Europe,14,$0.43,$0.02,$16.62,9.99
+BE,Belgium,Europe,37,$5.28,$1.48,$21.30,58.65
+BO,Bolivia,South America,48,$2.18,$0.87,$14.44,14.1
+BA,Bosnia and Herzegovina,Europe,24,$2.39,$0.63,$21.26,28.49
+BW,Botswana,Africa,30,$3.92,$1.63,$36.23,24.14
+BR,Brazil,South America,58,$0.92,$0.18,$2.72,22.3
+BN,Brunei ,Asia,9,$2.23,$1.78,$7.43,71.38
+BG,Bulgaria,Europe,21,$2.26,$0.63,$84.50,87.51
+KH,Cambodia,Asia,23,$0.83,$0.10,$2.00,16.12
+CM,Cameroon,Africa,44,$0.90,$0.60,$7.22,11.88
+CA,Canada,North America,60,$5.72,$0.80,$79.54,75.18
+CL,Chile,South America,59,$0.39,$0.24,$1.83,22.49
+CN,China,Asia,36,$0.52,$0.30,$1.21,83.43
+CO,Colombia,South America,60,$2.80,$0.42,$9.88,12.35
+CR,Costa Rica,Central America,15,$2.36,$1.60,$2.94,17.46
+HR,Croatia,Europe,26,$2.35,$0.26,$12.92,86.48
+CU,Cuba,Caribbean,9,$7.50,$3.20,$12.50,9.1
+CY,Cyprus,Asia,22,$8.84,$2.06,$59.10,75.48
+CZ,Czech Republic,Europe,34,$8.15,$0.94,$36.05,44.55
+DK,Denmark,Europe,34,$0.79,$0.00,$2.23,105.65
+DO,Dominican Republic,Caribbean,22,$1.51,$0.33,$18.17,20.7
+EC,Ecuador,South America,19,$1.06,$0.63,$3.00,17.7
+EG,Egypt,Africa,40,$1.04,$0.02,$2.38,19.73
+SV,El Salvador,Central America,25,$1.33,$0.50,$7.50,21.03
+EE,Estonia,Europe,34,$1.39,$0.35,$18.93,55.07
+ET,Ethiopia,Africa,3,$1.71,$1.41,$4.17,21.08
+FJ,Fiji,Oceania,18,$0.19,$0.05,$0.85,25.99
+FI,Finland,Europe,18,$0.97,$0.26,$1.63,71.23
+FR,France,Europe,45,$0.41,$0.09,$118.20,60.94
+GE,Georgia,Asia,20,$1.80,$0.30,$7.98,30.67
+DE,Germany,Europe,60,$3.38,$0.35,$11.83,55.7
+GH,Ghana,Africa,34,$0.66,$0.17,$3.47,8.44
+GR,Greece,Europe,22,$8.16,$1.06,$768.87,59.42
+GT,Guatemala,Central America,24,$1.94,$1.29,$5.14,17.3
+HT,Haiti,Caribbean,13,$0.85,$0.27,$1.90,12.49
+HN,Honduras,Central America,22,$1.56,$0.69,$50.00,20.73
+HK,Hong Kong,Asia,52,$2.30,$0.21,$10.73,47.34
+HU,Hungary,Europe,21,$1.70,$0.16,$8.04,41.32
+IN,India,Asia,58,$0.68,$0.05,$2.73,13.67
+ID,Indonesia,Asia,53,$0.42,$0.17,$2.94,17.7
+IR,Iran,Asia,52,$1.52,$0.22,$6.21,24.9
+IQ,Iraq,Asia,33,$1.14,$0.68,$27.35,39.9
+IE,Ireland,Europe,12,$1.42,$0.13,$11.64,30.16
+IL,Israel,Asia,27,$0.05,$0.02,$20.95,28.01
+IT,Italy,Europe,29,$0.27,$0.09,$3.54,37.15
+CI,Ivory Coast,Africa,29,$2.58,$1.17,$18.06,9.92
+JM,Jamaica,Caribbean,11,$2.74,$0.86,$9.60,30.84
+JP,Japan,Asia,35,$3.38,$0.88,$45.53,44.05
+JO,Jordan,Asia,42,$1.41,$0.24,$7.05,19.47
+KZ,Kazakhstan,Asia,19,$0.59,$0.25,$2.35,18.71
+KE,Kenya,Africa,50,$2.25,$0.26,$10.93,16.93
+KW,Kuwait,Asia,42,$0.81,$0.01,$6.29,96.23
+KG,Kyrgyzstan,Asia,20,$0.15,$0.10,$7.08,16.3
+LA,Laos,Asia,25,$3.19,$0.18,$4.25,23.41
+LV,Latvia,Europe,22,$3.49,$0.29,$70.87,41.6
+LB,Lebanon,Asia,15,$4.81,$1.21,$77.70,16.38
+LY,Libya,Africa,16,$0.74,$0.00,$2.22,10.4
+LT,Lithuania,Europe,23,$1.38,$0.09,$17.75,50.13
+LU,Luxembourg,Europe,20,$3.00,$1.42,$7.10,82.85
+MO,Macau,Asia,19,$1.93,$0.99,$8.29,50.16
+MW,Malawi,Africa,5,$25.46,$20.37,$25.46,17.95
+MY,Malaysia,Asia,60,$0.89,$0.12,$7.26,25.87
+MV,Maldives,Asia,23,$3.24,$1.85,$12.95,47.93
+MT,Malta,Europe,27,$2.01,$0.82,$59.04,49.66
+MU,Mauritius,Africa,18,$0.75,$0.04,$6.49,18.09
+MX,Mexico,North America,45,$3.62,$1.20,$12.06,29.81
+MD,Moldova,Europe,18,$0.32,$0.07,$2.79,29.46
+MN,Mongolia,Asia,42,$0.60,$0.22,$3.70,16.69
+ME,Montenegro,Europe,21,$2.12,$0.14,$5.90,41.93
+MA,Morocco,Africa,24,$0.88,$0.44,$5.50,27.84
+MZ,Mozambique,Africa,19,$2.79,$0.19,$6.98,15.66
+MM,Myanmar,Asia,35,$0.78,$0.00,$14.15,24.06
+NA,Namibia,Africa,33,$22.37,$1.20,$72.06,18.43
+NP,Nepal,Asia,35,$0.61,$0.22,$2.66,16.45
+NL,Netherlands,Europe,24,$3.11,$0.77,$15.97,108.33
+NZ,New Zealand,Oceania,36,$6.99,$1.22,$27.98,49.49
+NI,Nicaragua,Central America,30,$0.94,$0.02,$2.82,18.3
+NG,Nigeria,Africa,60,$0.88,$0.03,$5.25,18.92
+NO,Norway,Europe,21,$5.81,$1.74,$29.03,134.73
+OM,Oman,Asia,60,$2.12,$0.13,$8.67,44.47
+PK,Pakistan,Asia,60,$0.59,$0.06,$8.59,16.73
+PS,Palestine,Asia,17,$1.71,$0.46,$3.64,4.89
+PA,Panama,Central America,8,$4.49,$2.00,$7.48,17.03
+PY,Paraguay,South America,27,$2.53,$0.73,$9.12,15.15
+PE,Peru,South America,49,$1.15,$0.85,$15.58,15.64
+PH,Philippines,Asia,30,$1.77,$0.95,$8.21,19.48
+PL,Poland,Europe,60,$0.64,$0.03,$23.02,40.14
+PT,Portugal,Europe,21,$3.85,$1.18,$14.15,64.3
+QA,Qatar,Asia,9,$3.20,$1.10,$4.39,120.69
+RO,Romania,Europe,16,$1.18,$0.11,$11.83,36.9
+RU,Russia,Europe,22,$0.29,$0.13,$1.86,20.46
+SA,Saudi Arabia,Asia,60,$1.47,$0.33,$13.33,102.79
+SN,Senegal,Africa,35,$0.94,$0.30,$6.02,21.44
+RS,Serbia,Europe,38,$1.30,$0.17,$14.09,45.81
+SG,Singapore,Asia,35,$1.09,$0.25,$74.32,67.99
+SK,Slovakia,Europe,45,$3.55,$1.04,$35.50,33.44
+SI,Slovenia,Europe,28,$1.72,$0.02,$88.68,54.57
+SO,Somalia,Africa,27,$0.60,$0.18,$6.67,7.95
+ZA,South Africa,Africa,60,$2.67,$0.12,$34.95,33.62
+KR,South Korea,Asia,18,$4.72,$0.06,$96.88,117.95
+ES,Spain,Europe,44,$1.24,$0.57,$57.98,34.26
+LK,Sri Lanka,Asia,60,$0.38,$0.00,$5.53,13.15
+SD,Sudan,Africa,33,$0.27,$0.03,$0.92,9.5
+SR,Suriname,South America,12,$1.94,$1.72,$2.73,40.7
+SE,Sweden,Europe,58,$1.45,$0.20,$75.08,73.61
+CH,Switzerland,Europe,14,$5.24,$1.60,$17.83,82.29
+SY,Syria,Asia,14,$7.15,$0.19,$38.80,13.24
+TW,Taiwan,Asia,42,$5.67,$0.42,$46.67,53.93
+TJ,Tajikistan,Asia,22,$2.60,$0.87,$13.12,7.05
+TZ,Tanzania,Africa,60,$0.75,$0.28,$4.31,10.39
+TH,Thailand,Asia,60,$1.06,$0.34,$10.32,33.49
+TG,Togo,Africa,18,$4.69,$2.03,$40.64,34.42
+TT,Trinidad and Tobago,Caribbean,12,$1.90,$0.21,$143.18,28.37
+TN,Tunisia,Africa,25,$1.09,$0.33,$3.63,22.64
+TR,Turkey,Asia,60,$0.63,$0.05,$2.26,30.48
+UG,Uganda,Africa,60,$1.56,$0.45,$22.71,15.99
+UA,Ukraine,Europe,19,$0.75,$0.14,$35.88,15.62
+AE,United Arab Emirates,Asia,51,$7.62,$0.80,$34.30,135.35
+GB,United Kingdom,Europe,60,$1.42,$0.11,$71.29,48.1
+US,United States,North America,45,$3.33,$1.00,$30.00,61.12
+UY,Uruguay,South America,35,$1.51,$0.10,$6.33,34.43
+UZ,Uzbekistan,Asia,60,$0.60,$0.01,$23.75,13.27
+VN,Vietnam,Asia,46,$0.49,$0.07,$5.55,33.9
+YE,Yemen,Asia,17,$15.98,$0.40,$39.94,16.89
+ZM,Zambia,Africa,60,$1.13,$0.01,$6.80,10.36
