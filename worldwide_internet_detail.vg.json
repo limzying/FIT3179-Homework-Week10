@@ -50,7 +50,7 @@
         "y": {
             "field": "avg_speed",
             "type": "quantitative",
-            "title": "Average Internet Speed",
+            "title": "Average Internet Speed (Mbit/s)",
             "scale":{"domain":[0,140]}
         }
     },
@@ -61,6 +61,7 @@
                 "color": {
                     "field": "continental_region",
                     "type": "nominal",
+                    "legend":{"title":"Continental region"},
                     "scale": {
                         "domain": [
                             "Africa",
