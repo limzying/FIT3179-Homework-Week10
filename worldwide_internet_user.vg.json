@@ -52,7 +52,6 @@
                 "color":{
                     "field":"Internet users per 100 population",
                     "type":"quantitative",
-                    "legend":{"title":"Internet users per 100 population"},
                     "scale":{
                         "type":"threshold",
                         "domain":[20,40,60,80],
