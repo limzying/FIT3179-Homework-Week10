@@ -56,7 +56,10 @@
     },
     "layer":[
         {
-            "mark":"circle",
+            "mark":{
+                "type":"circle",
+                "size":40
+            },
             "encoding":{
                 "color": {
                     "field": "continental_region",
